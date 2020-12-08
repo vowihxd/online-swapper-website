@@ -1,6 +1,6 @@
 {
     "announcements": [
-        {"showAnnouncement": ""},
-        {"content": ""}
+        {"showAnnouncement": "true"},
+        {"content": "Hello Clxqz"}
     ]
 }
