@@ -1,6 +1,6 @@
 {
     "announcements": [
-        {"showAnnouncement": "true"},
-        {"content": "This is a demo"}
+        {"showAnnouncement": "false"},
+        {"content": ""}
     ]
 }
