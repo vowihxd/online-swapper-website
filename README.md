@@ -1,2 +1,2 @@
-# online-swapper
-This is the website for G4 Online Swapper
+# Online Swapper
+This is the source for G4 Online Swapper website
