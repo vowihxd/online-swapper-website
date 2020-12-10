@@ -1,6 +1,6 @@
 {
     "downtime": [
-        {"active": "true"},
-        {"reason": "Vowi"}
+        {"active": "false"},
+        {"reason": ""}
     ]
 }
