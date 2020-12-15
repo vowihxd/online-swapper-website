@@ -8,12 +8,12 @@
     ],
 
     "downtime": [
-        {"active": "0"},
+        {"active": "false"},
         {"content": "null"}
     ],
 
     "announcements": [
-        {"active": "0"},
+        {"active": "false"},
         {"content": "null"}
     ],
 
