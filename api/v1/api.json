@@ -1,0 +1,24 @@
+{
+    "VersionCheck": [
+        {"build": "++Fortnite+Release-15.10-CL-14937640-Windows"}
+    ],
+
+    "social": [
+        {"discord": "https://discord.gg/EVAV6NXJ4R"}
+    ],
+
+    "downtime": [
+        {"active": "false"},
+        {"content": "null"}
+    ],
+
+    "announcements": [
+        {"active": "false"},
+        {"content": "null"}
+    ],
+
+    "update": [
+        {"version": "v1.3"},
+        {"downloadLink": "null"}
+    ]
+}
